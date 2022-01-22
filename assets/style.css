@@ -1,0 +1,85 @@
+body{
+    margin:0px;
+    width: 100%;
+}
+a{
+    text-decoration:none;
+    color: white;
+}
+button{
+    background-color:olivedrab;
+    padding:10px 20px;
+    border-radius:10px;
+}
+.order{
+    position: absolute;
+    top:50%;
+    right:15%;
+}
+.order h2{
+    color: white;
+}
+ h1{
+    text-align: center;
+    background-color: olivedrab;
+    color: white;
+    margin: 10px 650px;
+    padding: 10px 20px;
+}
+section{
+    margin-top: -5px;
+}
+.ser{
+    background-color:rgb(247, 221, 187);
+}
+.ser div{
+    margin: 10px 20px 10px 100px;
+    padding: 10px 20px 20px 20px;
+    text-align: left;
+}
+.ser p{
+    padding: 0px 60px 0px 0px;
+}
+.ser a{
+    color: chocolate;
+}
+img{
+    border-radius: 20px;
+}
+.menu img{
+    width:300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.menu table{
+    margin: 40px 0px;
+}
+.menu a{
+    color: chocolate;
+}
+.menu p{
+    padding: 0px 15px 0px 10px;
+}
+.int img{
+    width:250px;
+    height: 250px;
+    border-radius: 50%;
+}
+.int{
+    text-align: center;
+}
+.loc{
+    border: 5px solid burlywood;
+    margin:10px 600px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: chocolate;
+}
+footer{
+    text-align: center;
+    background-color: olivedrab;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
